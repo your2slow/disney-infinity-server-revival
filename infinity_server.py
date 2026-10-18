@@ -754,7 +754,6 @@ def ugc(p):
     return jsonify({})
 
 
-# ------------------------------------------------------------------ friends
 FRIENDS = "/coregames/friends/v1/wiiu"
 
 def norm_nid(x):
