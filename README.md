@@ -8,9 +8,9 @@ It's a single Flask server written in Python. It was built by reverse engineerin
 
 | Signed in to the server | Community Content |
 |---|---|
-| ![Sign in page](screenshots/signin.png) | ![Community Content](screenshots/community.png) |
+| ![Sign in page](screenshots/signin.png) | ![Community Content](screenshots/community.jpg) |
 | **Leaderboards** | **Inbox** |
-| ![Text Toy working](screenshots/texttoy.png) | ![Inbox](screenshots/inbox.png) |
+| ![Text Toy working](screenshots/texttoy.jpg) | ![Inbox](screenshots/inbox.jpg) |
 
 ## What works
 
