@@ -4,6 +4,12 @@ A replacement for Disney's online services in Disney Infinity 3.0 on Wii U. Disn
 
 It's a single Flask server written in Python. It was built by reverse engineering the game and checking what it actually sends and expects, so it isn't guesswork. Eventually this will be rewritten into another language if I ever decide to go public with this server.
 
+## Screenshots
+
+| Signed in to the server | Community Content |
+|---|---|
+| ![Signed in](screenshots/signin.png) | ![Community Content](screenshots/community.png) |
+
 ## What works
 
 - Creating and signing in to a Disney account, plus auto sign-in from your console
