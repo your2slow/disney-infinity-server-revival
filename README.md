@@ -8,9 +8,9 @@ It's a single Flask server written in Python. It was built by reverse engineerin
 
 | Signed in to the server | Community Content |
 |---|---|
-| ![Signed in](screenshots/signin.png) | ![Community Content](screenshots/community.png) |
+| ![Sign in page](screenshots/signin.png) | ![Community Content](screenshots/community.png) |
 | **Leaderboards** | **Inbox** |
-| ![Leaderboards](screenshots/leaderboards.png) | ![Inbox](screenshots/inbox.png) |
+| ![Text Toy working](screenshots/texttoy.png) | ![Inbox](screenshots/inbox.png) |
 
 ## What works
 
@@ -55,7 +55,7 @@ To play online with other people you need a Disney Infinity 3.0 NEX game server 
 
 2. **Patch the game.** The game has Disney's addresses built in, so they need to be changed to your server's address (for example `http://192.168.1.50`). Patch the **update's** RPX, not the base game's. When an update is installed, the console runs the update's copy.
 
-3. **Put the patched RPX on the console.** WUP Installer won't do it, because it ignores the `code` folder. Use FTP and replace the file in:
+3. **Put the patched RPX on the console.** Use FTPiiU to replace the .RPX
    ```
    /storage_mlc/usr/title/0005000e/101ac900/code/
    ```
@@ -85,8 +85,5 @@ The Wii U has its own swear filter that runs before anything reaches the server,
 
 ## Disclaimer
 
-This is a fan project. It's not affiliated with, endorsed by or connected to Disney or Avalanche Software in any way. Disney and Disney Infinity are trademarks of Disney. No game code, assets or copyrighted content are included here. You need your own copy of the game.
+this is a fan project, and made because i love the game. this is in no way shape or form affiliated with the Disney company.
 
-## License
-
-MIT. See `LICENSE`.
