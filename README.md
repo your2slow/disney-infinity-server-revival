@@ -14,7 +14,7 @@ It's a single Flask server written in Python. It was built by reverse engineerin
 - Prestige levels, titles and weekly objectives
 - Profile and stats saving
 - News ticker (with images) and the inbox
-- Text Toy filtering
+- Text Toy functionality
 - Friends list (shows Nintendo friends who also have an account on the server)
 - Radio Disney and Toy Box TV (need your own media, see below)
 
