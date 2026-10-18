@@ -53,7 +53,7 @@ To play online with other people you need a Disney Infinity 3.0 NEX game server 
    ```
    It runs on port 80 by default (set `PORT` to change it). `infinity.db` and `requests.log` get created automatically if they're missing.
 
-2. **Patch the game.** The game has Disney's addresses built in, so they need to be changed to your server's address (for example `http://192.168.1.50`). Patch the **update's** RPX, not the base game's. When an update is installed, the console runs the update's copy.
+2. **Patch the game.** The game has Disney's addresses built in, so they need to be changed to your server's address (for example `http://192.168.1.50`). Patch the **update's** RPX, not the base game's. When an update is installed, the console runs the update's copy. (Also eventually there will be an aroma plugin that patched the game so that this would work for people using the disc game as well)
 
 3. **Put the patched RPX on the console.** Use FTPiiU to replace the .RPX
    ```
